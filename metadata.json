@@ -1,0 +1,6 @@
+{
+  "name": "Furqona Karpet Bekasi",
+  "description": "Website resmi Furqona Karpet Bekasi - Jasa penjualan dan pemasangan Karpet Masjid & Karpet Kantor berkualitas premium di wilayah Bekasi dan sekitarnya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
